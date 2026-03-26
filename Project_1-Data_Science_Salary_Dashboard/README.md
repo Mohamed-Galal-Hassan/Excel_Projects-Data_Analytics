@@ -1,6 +1,6 @@
-<img width="1200" height="900" alt="Data_Science_Salary_Dashboard_Image" src="https://github.com/user-attachments/assets/1b9db89c-b09e-448f-9880-480b9335e376" /># Excel Salary Dashboard
+# Data Science Salary Dashboard
 
-![1_Salary_Dashboard.png](<img width="1200" height="900" alt="Data_Science_Salary_Dashboard_Image" src="https://github.com/user-attachments/assets/957438ab-c917-4c8b-a388-0f3e0ddb7f09" />)
+![Data_Science_Salary_Dashboard.png](<img width="1200" height="900" alt="Data_Science_Salary_Dashboard_Image" src="https://github.com/user-attachments/assets/957438ab-c917-4c8b-a388-0f3e0ddb7f09" />)
 
 ## Introduction
 
@@ -9,7 +9,8 @@ This interactive Excel dashboard was developed to systematically analyze contemp
 The underlying dataset was sourced from a comprehensive Excel data analytics curriculum I completed. It provides a structured foundation of real-world job market data, containing detailed records on job classifications, compensation rates, geographic coordinates, and required technical proficiencies.
 
 ### Dashboard File
-The finalized interactive dashboard is accessible here: [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+The finalized interactive dashboard is accessible here: [Data_Science_Salary_Dashboard.xlsx](https://github.com/user-attachments/files/26281183/Data_Science_Salary_Dashboard.xlsx)
+
 
 ### Technical Competencies Demonstrated
 
