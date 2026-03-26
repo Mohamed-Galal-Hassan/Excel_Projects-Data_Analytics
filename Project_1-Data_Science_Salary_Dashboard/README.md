@@ -1,6 +1,6 @@
-# Excel Salary Dashboard
+<img width="1200" height="900" alt="Data_Science_Salary_Dashboard_Image" src="https://github.com/user-attachments/assets/1b9db89c-b09e-448f-9880-480b9335e376" /># Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](<img width="1200" height="900" alt="Data_Science_Salary_Dashboard_Image" src="https://github.com/user-attachments/assets/957438ab-c917-4c8b-a388-0f3e0ddb7f09" />)
 
 ## Introduction
 
